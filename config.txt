@@ -1,4 +1,4 @@
-﻿token=NjE1NTc3ODQ3MDY2NTI1NzI3.XWQLTg.eqPMYUPntmhZUMel09qXqoc7acY
+﻿token= NjE1NTc3ODQ3MDY2NTI1NzI3.XWQLTg.eqPMYUPntmhZUMel09qXqoc7acY
 owner= 345259413889744897
 prefix= a
 game= AsMusic
